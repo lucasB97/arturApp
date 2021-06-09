@@ -1,0 +1,12 @@
+{
+  "name": "ArturApp",
+  "displayName": "ArturApp",
+  "expo": {
+    "name": "ArturApp",
+    "slug": "ArturApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
